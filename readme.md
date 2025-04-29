@@ -14,7 +14,7 @@
 ## 🧾 Sobre o Projeto
 
 Esta é uma página pessoal criada como parte dos meus estudos em desenvolvimento web.  
-O projeto foca em estruturação com **HTML5**, estilização com **CSS3** e, futuramente, interação com **JavaScript**.
+O projeto foca em estruturação com **HTML5**, estilização com **CSS3**.
 
 ---
 
