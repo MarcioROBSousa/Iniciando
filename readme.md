@@ -4,7 +4,6 @@
 ![Status](https://img.shields.io/badge/Projeto-Em%20Desenvolvimento-yellow?style=for-the-badge)
 ![HTML](https://img.shields.io/badge/HTML5-E44D26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-264DE4?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-Preparando...-f7df1e?style=for-the-badge&logo=javascript&logoColor=black)
 
 ---
 
