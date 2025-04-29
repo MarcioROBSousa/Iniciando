@@ -1,0 +1,77 @@
+/* Define o estilo geral do body */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f8ff; /* Cor de fundo */
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh; /* Garante que ocupe a altura da tela */
+}
+
+/* Contêiner principal com Flexbox */
+.container {
+    display: flex; /* Ativa o Flexbox */
+    flex-direction: row; /* Alinha os itens horizontalmente */
+    justify-content: flex-start; /* Itens começam alinhados à esquerda */
+    align-items: center; /* Alinha os itens ao topo */
+    padding: 20px;
+    background-color: rgb(0, 190, 253); /* Fundo do contêiner */
+    border-radius: 10px;
+    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+    width: 90%; /* Largura do contêiner */
+    max-width: 1200px; /* Largura máxima */
+    gap: 20px;
+}
+
+/* Estiliza a seção da imagem */
+#img1 { /*# é ID*/
+    background-color: aqua; /* Cor de fundo aplicada */
+    padding: 10px; /* Espaçamento interno */
+    border: 5px solid black; /* Borda */
+    border-radius: 20px;
+    width: 250px; /* Define o tamanho da imagem */
+    margin-right: 20px; /* Espaço entre a imagem e o texto */
+}
+
+/* Estiliza o conteúdo textual */
+.content { /* . é Class*/
+    flex: 1; /* Faz com que o texto ocupe o restante do espaço */
+}
+
+/* Estiliza o título principal */
+h1 {
+    color: blue;
+    font-size: 2.5em;
+}
+
+/* Estiliza os subtítulos */
+h2 {
+    color: rgb(26, 93, 1);
+    font-size: 2em;
+}
+
+h3 {
+    color: black;
+    font-size: 1.5em;
+}
+
+/* Estiliza os parágrafos */
+p {
+    font-size: 1em;
+    line-height: 1.5;
+    color: dimgray
+}
+@media (max-width: 768px) {
+    .container {
+        flex-direction: column;
+        align-items: center;
+        text-align: center;
+    }
+
+    #img1 {
+        margin-right: 0;
+        margin-bottom: 20px;
+    }
+}
