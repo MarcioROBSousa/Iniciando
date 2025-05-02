@@ -1,7 +1,7 @@
 
 # 🌟 Minha Página de Teste
 
-![Status](https://img.shields.io/badge/Projeto-Em%20Desenvolvimento-yellow?style=for-the-badge)
+
 ![HTML](https://img.shields.io/badge/HTML5-E44D26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-264DE4?style=for-the-badge&logo=css3&logoColor=white)
 
