@@ -1,7 +1,7 @@
 
 # 🌟 Minha Página de Teste
 
-![Primeiros Passos](https://img.shields.io/badge/-Primeiros%20Passos-0431B4?logo=nodedotjs&logoColor=5FA04E&&style=for-the-badge)
+![Primeiros Passos](https://img.shields.io/badge/-Primeiros%20Passos-0431B4?logo=nodedotjs&logoColor=white&&style=for-the-badge)
 ![HTML](https://img.shields.io/badge/HTML5-E44D26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-264DE4?style=for-the-badge&logo=css3&logoColor=white)
 
